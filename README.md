@@ -58,16 +58,19 @@ Precisei entrar no bash e executar o comando *SELECT VERSION();* para ter acesso
 
 Desse modo consegui baixar a versão correta efetuando a conexão normalmente.
 
-## Screen Shots
+## 📷Screen Shots
 
 ### Criando Banco de Dados MySQL no Azure
+
 <img src="/img/Screenshot_1.png">
 <img src="/img/Screenshot_2.png">
 <img src="/img/Screenshot_3.png">
 <img src="/img/Screenshot_4.png">
 <img src="/img/Screenshot_5.png">
 
+---
 ### Conectando o servidor ao Power BI
+
 <img src="/img/Screenshot_6.png">
 <img src="/img/Screenshot_7.png">
 <img src="/img/Screenshot_8.png">
